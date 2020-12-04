@@ -1,6 +1,6 @@
-# Horiseon Marketing Page
+# Marketing Page Template 
 
-## Webpage Refactoring: Accesibility, Semantic, and Element Structure Focus
+## Description
 
 The webpage had little to none of the accesibility elements included, going so far as styling with div classes instead of accesibility tags. With the accessibility fixes, the webpage is able to market to a wider userbase, whereas the semantic and element fixes makes the code easier to modify in the future
 
