@@ -32,11 +32,9 @@ header nav {
     font-size: 20px;
 }
 
-
 /* removed some aribtrary tags; left header tag in case
  lists are added elsewhere later to keep specificity*/
-
-
+ 
 header ul {
     list-style-type: none;
 }
