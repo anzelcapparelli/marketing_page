@@ -31,9 +31,9 @@ aside {
 
 ### Deployed Link
 
-[Marketing Template Page](https://anzelcapparelli.github.io/marketing_page/).
+[Marketing Template Deployed Page](https://anzelcapparelli.github.io/marketing_page/).
 
 
-GitHub: 
+[GitHub Repository Link](https://github.com/anzelcapparelli/marketing_page)
 
 
