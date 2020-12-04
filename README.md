@@ -1,32 +1,39 @@
 # Marketing Page Template 
 
+![Template Screenshot](/assets/images/template_screenshot.PNG)
+
 ## Description
 
-The webpage had little to none of the accesibility elements included, going so far as styling with div classes instead of accesibility tags. With the accessibility fixes, the webpage is able to market to a wider userbase, whereas the semantic and element fixes makes the code easier to modify in the future
+This marketing template uses semantic elements for better accessibility and readability. In addition to improving search results, these tags also reduce the number of classes needed to style various parts of the page, making the css file much easier to read as well. In the code snippet below, the two style layouts, before their accessibility tags, used very specific, long class names to help the reader identify what the code was styling on the page. With the element changes, some idea of where these styles affect the page can be determined, without even referring to the html code (which is often not possible with class names).
+
+```css
+
+article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+```
 
 ### Deployed Link
 
- [Horiseon Marketing Page](Placeholder).
+[Marketing Template page](Placeholder).
 
 
+GitHub: 
 
-
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
-
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
