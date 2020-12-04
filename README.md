@@ -1,6 +1,6 @@
 # Marketing Page Template 
 
-![Template Screenshot](/assets/images/template_screenshot.PNG)
+![Template Screenshot](assets/images/template_screenshot.PNG)
 
 ## Description
 
