@@ -31,7 +31,7 @@ aside {
 
 ### Deployed Link
 
-[Marketing Template page](Placeholder).
+[Marketing Template page](https://anzelcapparelli.github.io/marketing_page/).
 
 
 GitHub: 
