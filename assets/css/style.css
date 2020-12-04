@@ -32,11 +32,14 @@ header nav {
     font-size: 20px;
 }
 
+
+/* removed some aribtrary tags; left header tag in case
+ lists are added elsewhere later to keep specificity*/
+
+
 header ul {
     list-style-type: none;
 }
-
-/* removed some aribtrary tags; left header tag in case  */
 
 header li {
     display: inline-block;
@@ -87,8 +90,6 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-/* ections; makes simultaneous editing easier */
 
 aside div {
     margin-bottom: 32px;
