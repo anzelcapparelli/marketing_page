@@ -1,6 +1,6 @@
 # Marketing Page Template 
 
-![Template Screenshot](assets/images/template_screenshot.PNG)
+![Template Screenshot](assets/images/template_screenshot.png)
 
 ## Description
 
@@ -31,7 +31,7 @@ aside {
 
 ### Deployed Link
 
-[Marketing Template page](https://anzelcapparelli.github.io/marketing_page/).
+[Marketing Template Page](https://anzelcapparelli.github.io/marketing_page/).
 
 
 GitHub: 
